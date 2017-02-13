@@ -1,5 +1,3 @@
-
-
 import cardSum from '../../app/blackjack/card-sum';
 
 test('A bot knows how to add two card values', (assert) => {
