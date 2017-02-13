@@ -1,3 +1,5 @@
 import cardSum from './card-sum';
 
-export default function () {}
+export default function (cardSum) {
+
+}
